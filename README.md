@@ -1,7 +1,7 @@
 # robot-selenium-demo
 Library setup and execution :
-1) Run setup.sh '''./setup.sh'''
-2) To run the robot file '''browserstack-sdk robot <your_filename>.robot'''
+1) Run setup.sh           ```./setup.sh```
+2) To run the robot file  ```browserstack-sdk robot <your_filename>.robot```
 
 
 ## Task
