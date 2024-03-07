@@ -10,7 +10,7 @@ Create task1.robot
 Perform a login with instructions provided in the URL
     https://practicetestautomation.com/practice-test-login/
 
-Use robotframework-selenium and Builtin libraries with Robot framework to do the automation
+Use **robotframework-selenium and Builtin libraries with Robot framework** to do the automation
 https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
 https://robotframework.org/robotframework/latest/libraries/BuiltIn.html 
 
@@ -26,7 +26,7 @@ Create task2.robot
 Perform a login with instructions provided in the URL
     https://practicetestautomation.com/practice-test-login/
 
-Use selenium and CustomLib.py with Robot framework to do the automation
+Use **selenium and CustomLib.py with Robot framework** to do the automation
 Fill the CustomLib.py with relevant methods and use it in Task2.robot
 Libraries have been imported in CustomLib already.
 
