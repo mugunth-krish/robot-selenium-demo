@@ -17,7 +17,7 @@ https://robotframework.org/robotframework/latest/libraries/BuiltIn.html
 
 After login verify if the webpage contains ‘Logged In Successfully | Practice Test Automation’
 
-Use ```browserstack-sdk robot task1.robot```
+Use this command to run your robot file ```browserstack-sdk robot task1.robot```
 
 ## Task 2
 
@@ -30,6 +30,6 @@ Use selenium and CustomLib.py with Robot framework to do the automation
 Fill the CustomLib.py with relevant methods and use it in Task2.robot
 Libraries have been imported in CustomLib already.
 
-Use ```browserstack-sdk robot task2.robot```
+Use this command to run your robot file ```browserstack-sdk robot task2.robot```
 
 
